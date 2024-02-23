@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+.catalog{
+    text-align: center;
+}
+.adres{
+    text-align: center;
+    
+}
+div{
+    display: flex;
+}
+article{
+    display: flex;
+    text-align: center;
+}
+
+footer{
+      background-image: linear-gradient( lightskyblue,greenyellow); 
+}
+.buy{
+    margin: 60px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 420px;
+    color: black;
+}
+.photo{
+    float: left;
+    
+}
+.text{
+    font-size: 20px;
+    font-weight:bold ;
+}
+header{
+   background-image: linear-gradient( lightskyblue,greenyellow);  
+}
+a{
+    text-decoration: none;
+}
+.img{
+    box-shadow: 5px 5px 7px 5px grey ;
+}
+.logo{
+    box-shadow: 1px 1px 7px 5px grey ;
+}
+.buy:hover{
+    box-shadow: 10px 12px 4px 4px grey;
+    transition: 5s linear;
+}
+iframe{
+   margin: 10px ;
+   box-shadow: 10px 12px 10px 10px grey ;
+}
+.hymn{
+    text-align: center;
+}
+
